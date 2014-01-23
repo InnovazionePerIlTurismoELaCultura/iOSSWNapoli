@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3A1652D5-A2D6-43E8-8A7A-43399A8B435B</string>
+	<string>755C9117-FFF9-4A66-A1A4-12FDEC209C31</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TCE –Trentino Cultural Experience</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8F08CFFA-BBF8-4C71-9BCF-DB10FD135A77</key>
-		<string>https://github.com/michfusc/iOSSWNapoli.git</string>
+		<key>B22284DC-44E9-4627-A9BA-B5B635D8B856</key>
+		<string>https://github.com/InnovazionePerIlTurismoELaCultura/iOSSWNapoli.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TCE –Trentino Cultural Experience/TCE –Trentino Cultural Experience.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8F08CFFA-BBF8-4C71-9BCF-DB10FD135A77</key>
+		<key>B22284DC-44E9-4627-A9BA-B5B635D8B856</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/michfusc/iOSSWNapoli.git</string>
+	<string>https://github.com/InnovazionePerIlTurismoELaCultura/iOSSWNapoli.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8F08CFFA-BBF8-4C71-9BCF-DB10FD135A77</string>
+	<string>B22284DC-44E9-4627-A9BA-B5B635D8B856</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8F08CFFA-BBF8-4C71-9BCF-DB10FD135A77</string>
+			<string>B22284DC-44E9-4627-A9BA-B5B635D8B856</string>
 			<key>IDESourceControlWCCName</key>
-			<string>InnovazionePerIlTurismoELaCultura</string>
+			<string>REPOSITORY_GIT</string>
 		</dict>
 	</array>
 </dict>
